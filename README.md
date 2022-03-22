@@ -1,1 +1,1 @@
-# modele_KNN
+# modèle_KNN
